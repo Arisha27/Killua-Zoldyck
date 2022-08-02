@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "c719318f84"
   },
   "options": {
     "autoRead": false,
@@ -10,12 +10,12 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "Talha",
+    "author": "https://wa.me/923072291944"
   },
   "owner": [
-    "62812xxx"
+    "923072291944"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "timezone": "Asia/Karachi",
+  "footer": "Powered by https://wa.me/923072291944"
 }
