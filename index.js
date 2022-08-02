@@ -51,7 +51,7 @@ const connect = async () => {
         version
     }
     const killua = new WAConnection(WASocket(connOptions))
-    if (config.APIs.apikey == "YOURAPIKEY") {
+    if (config.APIs.apikey == "c719318f84") {
         console.log(chalk.black(chalk.bgRedBright('Apikey is not valid, please check at config.json')))
         process.exit();
     }
