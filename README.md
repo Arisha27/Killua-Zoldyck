@@ -121,6 +121,7 @@ SCAN THE QR USING YOUR WHATSAPP!
 |   Search     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/search)      |
 |   Stalker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/stalker)      |
 |   Textmaker     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/textmaker)      |
+|   Togel     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/togel)      |
 |   Users     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/users)      |
 |   Webzone     |       ✅[here](https://github.com/zhwzein/Killua-Zoldyck/tree/main/commands/webzone)      |
 	
@@ -136,6 +137,6 @@ Group Support [Here](https://chat.whatsapp.com/G1e0U2lOTVAGKNjyFHjDGP)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`DikaArdnt`](https://github.com/DikaArdnt)
 * [`Faizbastomi`](https://github.com/FaizBastomi)
-
+* [`FatihArridho`](https://github.com/FatihArridho)
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
